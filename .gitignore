@@ -1,0 +1,5 @@
+.venv/
+Result_19.csv
+df_hh_res.csv
+Result_19.zip
+catboost_model.cbm
